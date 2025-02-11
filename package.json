@@ -1,7 +1,7 @@
 {
   "name": "crossrealm",
   "version": "1.0.0",
-  "description": "",
+  "description": "CrossRealm is a decentralized gaming platform that enables cross-realm asset transfers and player progression across multiple game worlds.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +20,17 @@
   "dependencies": {
     "@openzeppelin/contracts": "^5.2.0",
     "ethers": "^5.7.2"
-  }
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://YOUR_GITHUB_TOKEN@github.com/crossrealm/crossrealm-game-dev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crossrealm/crossrealm-game-dev/issues"
+  },
+  "homepage": "https://github.com/crossrealm/crossrealm-game-dev#readme"
 }
