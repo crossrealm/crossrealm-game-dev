@@ -36,8 +36,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 ## Contact
 
 Join our community:
-- Discord: [CrossRealm Community]
-- Twitter: [@DecentraEvolve]
+- Discord: crossrealm.dev
+- Twitter: @DecentraEvolve
 - Email: crossrealm.game@gmail.com
 
 #GameFi #Blockchain #Gaming #Web3 #Multiverse
